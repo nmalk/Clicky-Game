@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 50px;
+  background: #38d4d4;
+  height: 300px;
+}
+
+.header h1 {
+  margin: 0;
+  margin-left: 80px;
+  padding-top: 75px;
+  text-align: left;
+  color: white;
+  font-size: 4rem;
+}
+
+
+.header p {
+  margin: 0;
+  margin-left: 80px;
+  padding-top: 75px;
+  text-align: left;
+  color: white;
+  font-size: 2rem;
+}
